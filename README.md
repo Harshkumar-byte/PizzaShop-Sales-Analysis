@@ -1,12 +1,12 @@
 # PizzaShop-Sales-Analysis
 Overview - Create a single page dashboard using the given data set and visualize the following objectives.
 **Objective:**
-1. Peak and Low Order Times**: Determine the time periods with the highest and lowest order volumes.
-2. Busiest Day of the Week**: Identify the day with the most pizza orders.
-3. Total Sales Calculation**: Analyze the overall sales generated.
-4. Most Popular Pizza**: Find out which pizza variety is ordered the most.
-5. Top Revenue-Generating Pizza**: Identify the pizza contributing the most to sales revenue.
-6. Order Time Analysis**: Analyze the time of day (morning, afternoon, evening, night) when pizza orders peak.
+1. Peak and Low Order Times: Determine the time periods with the highest and lowest order volumes.
+2. Busiest Day of the Week: Identify the day with the most pizza orders.
+3. Total Sales Calculation: Analyze the overall sales generated.
+4. Most Popular Pizza: Find out which pizza variety is ordered the most.
+5. Top Revenue-Generating Pizza: Identify the pizza contributing the most to sales revenue.
+6. Order Time Analysis: Analyze the time of day (morning, afternoon, evening, night) when pizza orders peak.
 7. Identify which pizza category is hot-selling
 
 **Data Sources**
