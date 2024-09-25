@@ -30,5 +30,5 @@ The original dataset was mostly cleaned, but I further refined and enhanced it u
 ### **Visualization Techniques**
 - Created a dynamic Power BI dashboard to visualize key insights.
 
-This comprehensive analysis provided valuable insights into the pizza shop's sales patterns, helping identify peak ordering times, best-selling pizzas, and the most profitable items.
-[Screenshot 2024-09-11 164308](https://github.com/user-attachments/assets/ea8baa85-f123-472e-b276-fe38dfdf617f)
+This comprehensive analysis provided valuable insights into the pizza shop's sales patterns, helping identify peak ordering times, best-selling pizzas, and the most profitable items.![Screenshot 2024-09-11 164308](https://github.com/user-attachments/assets/1435e369-f49b-4236-8469-091fb6d97f65)
+
